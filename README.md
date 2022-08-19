@@ -1,6 +1,18 @@
 # Surfs-Up
 Mod 9 Surfs Up Challenge
 
+Environment and Software:
+ - **Python**
+ - **Jupiter Notebook**
+ - **PostxQL and PgAdmin**
+
+Software:
+   -  **SQLlite**   
+   -  **SQL**  
+   -  **Jupyter Notebook**
+   -  **Flask Web Server**
+
+
 ## Project Overview
 This analysis project requires a quick build, quick turnaround data frame that pulls information from available Hawaiian Weather websites.  
 
@@ -88,42 +100,15 @@ The second **box and whiskers chart** is impacted by the outliers.    Additional
 Box and Whisker plot showing June and December Precipitation Statistics 
 </p>
 
-The next **Data Frame Summaries** represent the AVERAGE Precipitation for both June and December, and begin to give us a clearer picture.      
-<p align="center">
-   <img width="400" height="350" src="https://github.com/mjrotter4445/Surfs-Up/blob/main/Graphics/fig%20second%20to%20last.png">
-</p>   
-<p align="center">
-Look further into Averages of Rainfall for June and December  
-</p>
+
 
 The next **Line Chart** really gives us a better idea of seasonal Precipitation for both June and December.  We can really make some decisions
 from this compilation of summaries and charts.  There was a year in 2010 where above average rainfall did occur, but after that timeframe, 
 precipitation leveled out and was very consistent in the years 2011-2017.  
 <p align="center">
-   <img width="700" height="300" src="https://github.com/mjrotter4445/Surfs-Up/blob/main/Graphics/last%20and%20best%20chart%20avg%20precip%20line.png">
+   <img width="700" height="300" src="Resources/Avg Precip Line Graph.png">
 </p>   
 <p align="center">
 A "Big Picture" view of the data over time for better decision making 
 </p>
 
-Environment and Software:
- - **Python**
- - **Jupx Notebook**
- - **PostxQL and PgAdmin**
-Dependencies:
-  -  **Pandas**
-  -  **JSONs**
-  -  **numpy**
-  -  **re** for regular expressions
-  -   imported **datetime time** for timekeeping 
-  -  **sqlalchemy** 
-  -  **Python SQL toolkit and Object Relational Mapper**
-  -  **psycopg2**
-  -  **matplotlib**
-  -  **seaborn**
-
-Software:
-   -  **SQLlite**   
-   -  **SQL**  
-   -  **Jupyter Notebook**
-   -  **Flask Web Server**
