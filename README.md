@@ -50,8 +50,8 @@ Tables showing June and December temperature Statistics
 </p>
 
 ###  Comparison of the Rainfall for June and December:
-The analysis focuses on the temperature and rainfall from six different weather stations
-On Oahu, Hawaii from 2010-2017 of June and December.  
+The analysis focuses on the temperature and rainfall from six different weather stations in Oahu, HI from 2010 thru 2017 for months of June and December.
+
 
 1.	**Data**
      -	There are less data points for December again (1405 data points) than June (1574 data points).
@@ -79,7 +79,7 @@ formats and analysis can be helpful.
 
 
 ### 2 Additional Queries and Charts - Box and Whisker Plots to Visualize the Statistics 
-The analysis focuses on the temperature and rainfall from six different weather stations.  
+The analysis focuses on the temperature and rainfall from six different weather stations in Oahu, HI from 2010 thru 2017 for the months of June and December.  
 
 The first **box and whiskers chart** shows how the mild and steady temperatures are year-round. There is very little
 distribution of data and very few outliers.   
@@ -90,7 +90,7 @@ distribution of data and very few outliers.
 Box and Whisker plot showing June and December Temperature Statistics 
 </p>
  
-The second **box and whiskers chart** is impacted by the outliers.    Additional information is needed to really get the the facts.  
+The second **box and whiskers chart** is impacted by the outliers.    Additional information will be needed to get more accurate info.  
 
 <p align="center">
    <img width="400" height="350" src="Resources/precip whisker.png">
