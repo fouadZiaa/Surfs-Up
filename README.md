@@ -73,7 +73,7 @@ The analysis focuses on the temperature and rainfall from six different weather 
 The first **box and whiskers chart** shows how the mild and steady temperatures are year-round. There is very little
 distribution of data and very few outliers.   
 <p align="center">
-   <img width="400" height="350" src="https://github.com/mjrotter4445/Surfs-Up/blob/main/Graphics/fig_4%20temps_box_whisker.png">
+   <img width="400" height="350" src="Resources/temp whisker.png">
 </p>   
 <p align="center">
 Box and Whisker plot showing June and December Temperature Statistics 
@@ -82,7 +82,7 @@ Box and Whisker plot showing June and December Temperature Statistics
 The second **box and whiskers chart** is impacted by the outliers.    Additional information is needed to really get the the facts.  
 
 <p align="center">
-   <img width="400" height="350" src="https://github.com/mjrotter4445/Surfs-Up/blob/main/Graphics/fig_3_precip_box_whisker.png">
+   <img width="400" height="350" src="Resources/precip whisker.png">
 </p>   
 <p align="center">
 Box and Whisker plot showing June and December Precipitation Statistics 
