@@ -8,13 +8,12 @@ Environment and Software:
 
 Software:
    -  **SQLlite**   
-   -  **SQL**  
-   -  **Jupyter Notebook**
+   -  **SQL** 
    -  **Flask Web Server**
 
 
 ## Project Overview
-This analysis project requires a quick build, quick turnaround data frame that pulls information from available Hawaiian Weather websites.  
+This analysis requires a quick build, quick turnaround data frame that pulls information from available Hawaiian Weather websites.  
 
 ### Purpose  
 The purpose of this analysis is to help W. Avy, a famous surfer and investor make important business decisions about opening an ice cream 
@@ -28,8 +27,8 @@ The analysis consists of 2 parts:
  - Rainfall analysis for June and December for 2010-2017.
 
 ### Results
-The analysis focuses on the temperature and rainfall from six different weather stations.
-On Oahu, Hawaii from 2010-2017 of June and December.  
+The analysis focuses on the temperature and rainfall from six different weather stations in Oahu, HI from 2010 thru 2017 for the months of June and December.
+
 
 The first 2 charts show the statistics for June and December – tobs   
 
