@@ -23,15 +23,15 @@ wants to be prepared by knowing weather history and patterns in the area where t
 there is the right balance of warm temperatures and sunny days throughout the year.  The data-driven decisions that Avy will make, will be 
 based on temperature and rainfall for the past 7 years from 2010-2017, specifically June and December. These 2 months have a big enough gap in between to ensure that weather conditions are good year-round.   
 
-      - The analysis consists of 2 parts:   
-      - Temperature Statistics analysis for June and December for 2010-2017.
-      - Rainfall analysis for June and December for 2010-2017.
+The analysis consists of 2 parts:   
+ - Temperature Statistics analysis for June and December for 2010-2017.
+ - Rainfall analysis for June and December for 2010-2017.
 
 ### Results
 The analysis focuses on the temperature and rainfall from six different weather stations.
-On Oahu, Hawaii from 2010-2017 and June and December, specifically.  
+On Oahu, Hawaii from 2010-2017 of June and December.  
 
-The first 2 charts show the statistics for June and December – togs   
+The first 2 charts show the statistics for June and December – tobs   
 
 1.	**Data**
      -	There are less data points for December (1517 data points) than June (1700 data points).
@@ -52,7 +52,7 @@ Tables showing June and December temperature Statistics
 
 ###  Comparison of the Rainfall for June and December:
 The analysis focuses on the temperature and rainfall from six different weather stations
-On Oahu, Hawaii from 2010-2017 and June and December specifically.  
+On Oahu, Hawaii from 2010-2017 of June and December.  
 
 1.	**Data**
      -	There are less data points for December again (1405 data points) than June (1574 data points).
@@ -75,7 +75,7 @@ Tables showing June and December Precipitation Statistics
 
 ### Summary 
 The data frame tables above give us a quick view of the weather in area, but to fully understand the trends, additional
-formats and analysis can be helpful.  I've provided 2 box and whisker charts for more visual understanding.  
+formats and analysis can be helpful.  
 
 
 
@@ -102,13 +102,12 @@ Box and Whisker plot showing June and December Precipitation Statistics
 
 
 
-The next **Line Chart** really gives us a better idea of seasonal Precipitation for both June and December.  We can really make some decisions
-from this compilation of summaries and charts.  There was a year in 2010 where above average rainfall did occur, but after that timeframe, 
-precipitation leveled out and was very consistent in the years 2011-2017.  
+The following **Line Chart** provides a better idea of seasonal Precipitation for both June and December.  Avy can make some smart decisions
+from this compilation of summaries and charts.  In 2010 there was a rare case of above average rainfall, however in years beyond,  
+precipitation leveled out and was very consistent from 2011-2017.  
 <p align="center">
    <img width="700" height="300" src="Resources/Avg Precip Line Graph.png">
 </p>   
 <p align="center">
-A "Big Picture" view of the data over time for better decision making 
-</p>
+
 
